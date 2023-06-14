@@ -36,7 +36,7 @@ a {
 }
 
 .category-btn:hover {
-  background-color: #FC1503 !important;
+  background-color: rgba(113, 113, 113, 0.7) !important;
   color: white !important;
 }
 
@@ -68,7 +68,7 @@ a {
 
   padding: 7px 15px;
   margin: 10px 0px;
-  border-radius: 20px;
+  border-radius: 15px;
   transition: all 0.3s ease;
 }
 
